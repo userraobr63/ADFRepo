@@ -1,0 +1,9 @@
+{
+	"name": "rao00adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc726796-25cb-40aa-a3a9-6751ce5c9cb6",
+		"tenantId": "e3ad9e7c-2b0f-4638-b304-9ad72cfac301"
+	}
+}
